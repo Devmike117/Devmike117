@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mike538&show_icons=true&theme=tokyonight" alt="Mike538" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mike538&show_icons=true&locale=en&layout=compact" alt="Mike538" /></p>
-<img src="img/pngegg.png" width="250" height="250" />
+<img src="img/zerotwo.png" width="250" height="250" />
