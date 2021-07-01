@@ -9,7 +9,7 @@
 
 - You can visit my website for more information [🚀🌐](https://miportafoliomike.netlify.app/)
 
-- You can contact me by mail [📧]((mailto:mikealesso768gmail.com)
+- You can contact me by mail [📧](mailto:mikealesso768gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
