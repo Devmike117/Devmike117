@@ -7,9 +7,9 @@
 
 <img src="img/waifu.gif" align="right" width="250" height="180" />
 
-- You can visit my website for more information [🚀🌐](https://miportafoliomike.netlify.app/)
+- You can visit my website for more information [click here](https://miportafoliomike.netlify.app/)
 
-- You can contact me by mail [📧](mailto:mikealesso768gmail.com)
+- You can contact me by mail [click here](mailto:mikealesso768gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
