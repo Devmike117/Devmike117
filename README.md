@@ -1,4 +1,5 @@
 <h1 align="center">Hi!👋 I am Miguel</h1>
+<h2 aling="center">───── ⋆⋅☆⋅⋆ ─────</h2>
 <h3 align="center">‍💻 A engineering student in software and programming 👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulhuerta&label=Profile%20views&color=0e75b6&style=flat-square" alt="paulhuerta" /> </p>
