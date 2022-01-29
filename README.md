@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Mike_Gab_UwU" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="paul-huerta" height="30" width="40" /></a>
-<a href="https://github.com/Mike538" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="15559698" height="30" width="40" /></a>
+<a href="https://github.com/Mike538" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="15559698" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Mikedarkness538" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="paulhc123" height="30" width="40" /></a>
 <a href="https://www.instagram.com/10293u373y/?hl=es-la" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="paul.huerta_" height="30" width="40" /></a>
 </p>
