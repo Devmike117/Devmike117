@@ -1,4 +1,4 @@
-<h1 aling="center">───── ⋆⋅☆⋅⋆ ─────</h1>
+<h1 align="center">───── ⋆⋅☆⋅⋆ ─────</h1>
 <h1 align="center">Hi!👋 I am Miguel</h1>
 <h3 align="center">‍💻 A engineering student in software and programming 👨‍💻</h3>
 
