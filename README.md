@@ -1,6 +1,7 @@
 <h1 align="center">───── ⋆⋅☆⋅⋆ ─────</h1>
 <h1 align="center">Hi!👋 I am Miguel</h1>
 <h3 align="center">‍💻 A engineering student in software and programming 👨‍💻</h3>
+<h1 align="center">•❅──────✧❅✦❅✧──────❅•</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulhuerta&label=Profile%20views&color=0e75b6&style=flat-square" alt="paulhuerta" /> </p>
 
@@ -27,4 +28,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mike538&show_icons=true&theme=tokyonight" alt="Mike538" /></p>
 <img src="img/programing.gif" align="right" width="190" height="190" />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mike538&show_icons=true&locale=en&layout=compact" alt="Mike538" /></p>
-<h1 align="center">•❅──────✧❅✦❅✧──────❅•</h1>
