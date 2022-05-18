@@ -6,8 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mike538&label=Profile%20views&color=0e75b6&style=flat-square" alt="mike538" /> </p>
 
 <a href="https://twitter.com/Mike_Gab_UwU" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/Mike_Gab_UwU?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
+                  src="https://img.shields.io/twitter/follow/Mike_Gab_UwU?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+                  
 <a href="https://www.twitch.tv/mikeghuwu" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/mikeghuwu?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
