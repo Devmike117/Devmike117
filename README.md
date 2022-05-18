@@ -5,6 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mike538&label=Profile%20views&color=0e75b6&style=flat-square" alt="mike538" /> </p>
 
+<a href="https://twitter.com/Mike_Gab_UwU" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/Mike_Gab_UwU?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                /></a>
+<a href="https://www.twitch.tv/mikeghuwu" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitch/status/mikeghuwu?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+
 - I am currently learning **VueJS, NodeJS, Laravel and Python** <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="20" eight="20"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="nodejs" width="30" eight="30"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="20" eight="20"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="95" eight="45">
 
 <img src="img/waifu.gif" align="right" width="250" height="180" />
