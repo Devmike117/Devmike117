@@ -13,7 +13,7 @@
 
 <!--Redes Sociales-->
 
-### Social Networks 
+### Social Networks: 
 <div align="center">
   
 <a href="https://www.instagram.com/mikegh538/" target="_blank">
@@ -62,7 +62,7 @@ I am currently learning **VueJS, NodeJS, Laravel and Python** <img src="https://
   
 <!--Mi progeso en Github-->
   
-<h3 align="left">My progress</h3> 
+<h3 align="left">My progress:</h3> 
 </br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Mike538&show_icons=true&theme=tokyonight" alt="Mike538" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mike538&show_icons=true&locale=en&layout=compact" alt="Mike538" /></p>
