@@ -65,6 +65,6 @@ I am currently learning **VueJS, NodeJS, Laravel and Python** <img src="https://
   
 </br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Mike538&show_icons=true&theme=tokyonight" alt="Mike538" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mike538&show_icons=true&locale=en&layout=compact" alt="Mike538" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mike538&show_icons=true&locale=en&layout=compact" alt="Mike538" /></p>
 
 
