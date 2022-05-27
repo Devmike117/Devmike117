@@ -1,18 +1,44 @@
-<h1 align="center">───── ⋆⋅☆⋅⋆ ─────</h1>
-<h1 align="center">Hi!👋 I am Miguel</h1>
-<h3 align="center">‍💻 A engineering student in software and programming 👨‍💻</h3>
-<h1 align="center">•❅──────✧❅✦❅✧──────❅•</h1>
+<!--Conteo de personas que ven mi perfil-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mike538&label=Profile%20views&color=0e75b6&style=flat-square" alt="mike538" /> </p>
 
-<a href="https://twitter.com/Mike_Gab_UwU" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/Mike_Gab_UwU?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-                  
+<h1 align="center">───── ⋆⋅☆⋅⋆ ─────</h1>
+<h1 align="center"> Hi! I'm Mike Gabriel<img src="https://github.com/Mike538/Mike538/blob/main/img/komi-komisan.gif" width="40px"> </h1>
+<p align="left"> </p>
+<h3 align="center">‍💻 A engineering student in software and programming 👨‍💻</h3>
+<h1 align="center">•❅──────✧❅✦❅✧──────❅•</h1>
+
+<!--Animación uwu -->
+
+![Snake animation](https://github.com/Mike538/Mike538/blob/main/img/github-contribution-grid-snake.svg)
+
+<!--Redes Sociales-->
+
+### Social Networks 
+<div align="center">
+  
+<a href="https://www.instagram.com/mikegh538/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-F4A98F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  
+<a href="https://www.youtube.com/c/MagnoEfren" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0905?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"> 
+  
+<a href="https://twitter.com/magnoefren15" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-8FC3F4?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
+
+<a href="https://www.linkedin.com/in/miguel-gabriel-hern%C3%A1ndez/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-4B49B9?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"> 
+
+<a href="https://www.twitch.tv/devmikee" target="-blank">
+<img src="https://img.shields.io/badge/Twitch-4B49B9?style=for-the-badge&logo=Twitch&logoColor=white" tarjet="_blank"> 
+             
 <a href="https://www.twitch.tv/mikeghuwu" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/mikeghuwu?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+  
+<!--Aprendizaje-->
 
 - I am currently learning **VueJS, NodeJS, Laravel and Python** <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="20" eight="20"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="nodejs" width="30" eight="30"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="20" eight="20"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="95" eight="45">
-
+  
 <img src="img/waifu.gif" align="right" width="250" height="180" />
 
 - You can visit my website for more information [click here](https://miportafoliomike.netlify.app/)
