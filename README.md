@@ -19,10 +19,10 @@
 <a href="https://www.instagram.com/mikegh538/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-F4A98F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   
-<a href="https://www.youtube.com/c/MagnoEfren" target="_blank">
+<a href="https://www.youtube.com/channel/UCE3VvZ0_JuM2O3KgTVgOHtg" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0905?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"> 
   
-<a href="https://twitter.com/magnoefren15" target="_blank">
+<a href="https://twitter.com/Mike_Gab_UwU" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-8FC3F4?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
 
 <a href="https://www.linkedin.com/in/miguel-gabriel-hern%C3%A1ndez/" target="_blank">
