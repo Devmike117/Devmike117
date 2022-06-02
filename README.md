@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mike538&label=Visitas%20al%20perfil&color=blueviolet&style=for-the-badge" alt="mike538" /> </p>
 
 <h1 align="center">• ─── ⋆⋅☆⋅⋆ ─── •</h1>
-<h1 align="center"> Hi! I'm Mike Gabriel<img src="https://github.com/Mike538/Mike538/blob/main/img/komi-komisan.gif" width="40px"> </h1>
+<h1 align="center"> Hi! I'm Mike Gabriel<img src="https://github.com/Mike538/Mike538/blob/main/img/komi-komisan.gif" width="40" height="30" /> </h1>
 <h3 align="center">‍💻 A engineering student in software and programming 👨‍💻</h3>
 <h1 align="center">•❅──✧❅✦❅✧──❅•</h1>
 </a>
