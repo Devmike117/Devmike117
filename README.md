@@ -23,19 +23,19 @@
 <img src="https://img.shields.io/badge/YouTube-FF0905?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"> 
   
 <a href="https://twitter.com/Devmikee" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-8FC3F4?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
+<img src="https://img.shields.io/badge/Twitter-55acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
 
 <a href="https://www.linkedin.com/in/miguel-gabriel-hern%C3%A1ndez/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-4B49B9?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"> 
+<img src="https://img.shields.io/badge/LinkedIn-00a0dc?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"> 
 
 <a href="https://www.twitch.tv/devmikee" target="-blank">
-<img src="https://img.shields.io/badge/Twitch-4B49B9?style=for-the-badge&logo=Twitch&logoColor=white" tarjet="_blank"> 
+<img src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=Twitch&logoColor=white" tarjet="_blank"> 
  
 <a href="https://discord.gg/uTGDBd2jgr" tarjet="-blank">
-<img src="https://img.shields.io/badge/Discord-4B49B9?style=for-the-badge&logo=Discord&logoColor=white" tarjet="_blank">
+<img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white" tarjet="_blank">
              
 <a href="https://www.twitch.tv/devmikee" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/twitch/status/mikeghuwu?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+<img src="https://img.shields.io/twitch/status/devmikee?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
  </br>
 </p>
   
