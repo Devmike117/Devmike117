@@ -16,13 +16,13 @@
 ### Social Networks: 
 <div align="center">
   
-<a href="https://www.instagram.com/mikegh538/" target="_blank">
+<a href="https://www.instagram.com/dev_mikee/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-F4A98F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   
 <a href="https://www.youtube.com/channel/UCE3VvZ0_JuM2O3KgTVgOHtg" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0905?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"> 
   
-<a href="https://twitter.com/Mike_Gab_UwU" target="_blank">
+<a href="https://twitter.com/Devmikee" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-8FC3F4?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
 
 <a href="https://www.linkedin.com/in/miguel-gabriel-hern%C3%A1ndez/" target="_blank">
@@ -34,7 +34,7 @@
 <a href="https://discord.gg/uTGDBd2jgr" tarjet="-blank">
 <img src="https://img.shields.io/badge/Discord-4B49B9?style=for-the-badge&logo=Discord&logoColor=white" tarjet="_blank">
              
-<a href="https://www.twitch.tv/mikeghuwu" target="_blank" rel="noreferrer">
+<a href="https://www.twitch.tv/devmikee" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/twitch/status/mikeghuwu?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
  </br>
 </p>
