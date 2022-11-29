@@ -6,6 +6,7 @@
 <h1 align="center"> Hi! I'm Mike Gabriel<img src="https://github.com/Mike538/Mike538/blob/main/img/komi-komisan.gif" width="40" height="30" /> </h1>
 <h3 align="center">‍💻 A engineering student in software and programming 👨‍💻</h3>
 <h1 align="center">•❅──✧❅✦❅✧──❅•</h1>
+<h1 aling="centere">aaaaa
 </a>
 <!--Animación uwu -->
 
