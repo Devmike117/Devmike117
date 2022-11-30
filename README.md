@@ -9,7 +9,7 @@
 </a>
 <!--Animación uwu -->
 
-![Snake animation](https://github.com/Mike538/Mike538/blob/main/img/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Mike538/Mike538/main/img/contributions.svg)
 
 <!--Redes Sociales-->
 
