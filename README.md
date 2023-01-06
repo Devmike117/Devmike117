@@ -42,7 +42,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317g2an3kdemwofsvtsonvutkq7a&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317g2an3kdemwofsvtsonvutkq7a&redirect=true)
   
   </br>
-  <img src="https://steam-stat.vercel.app/api?profileName=mikedarkness"/>
+  ![Travis](https://steam-stat.vercel.app/api?profileName=mikedarkness)
   </br>
 <!--Aprendizaje-->
 
