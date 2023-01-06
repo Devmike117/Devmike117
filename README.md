@@ -38,9 +38,10 @@
 <img src="https://img.shields.io/twitch/status/devmikee?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
  </br>
 </p>
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317g2an3kdemwofsvtsonvutkq7a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=317g2an3kdemwofsvtsonvutkq7a&redirect=true)
-  
+<!-- Spotify -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317g2an3kdemwofsvtsonvutkq7a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317g2an3kdemwofsvtsonvutkq7a&redirect=true)
+
+<!--steam-->
   </br>
   <a href="https://steam-stat.vercel.app/api?profileName=mikedarkness" rel="nofollow"><img src="https://camo.githubusercontent.com/e9f89aa017730d5b1b53b16efb97d1ed88f7afb4ca69de31ed42cd54cbbd42d0/68747470733a2f2f737465616d2d737461742e76657263656c2e6170702f6170693f70726f66696c654e616d653d6d696b656461726b6e657373" alt="Travis" data-canonical-src="https://steam-stat.vercel.app/api?profileName=mikedarkness" style="max-width: 100%;"></a>
   </br>
