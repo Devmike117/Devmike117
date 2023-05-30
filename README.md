@@ -19,10 +19,10 @@
 <a href="https://www.instagram.com/dev._.mike/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-F4A98F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   
-<a href="https://youtube.com/@devmikee" target="_blank">
+<a href="https://youtube.com/@devmike." target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0905?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"> 
   
-<a href="https://twitter.com/Devmikee" target="_blank">
+<a href="https://twitter.com/Devmike_gh" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-55acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
 
 <a href="https://www.linkedin.com/in/miguel-gabriel-hern%C3%A1ndez/" target="_blank">
