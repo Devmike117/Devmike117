@@ -16,7 +16,7 @@
 ### Social Networks: 
 <div align="center">
   
-<a href="https://www.instagram.com/dev_mikee/" target="_blank">
+<a href="https://www.instagram.com/dev._.mike/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-F4A98F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   
 <a href="https://youtube.com/@devmikee" target="_blank">
