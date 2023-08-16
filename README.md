@@ -53,14 +53,6 @@ I am currently learning **VueJS, NodeJS, Laravel and Python** <img src="https://
 
  You can contact me by mail [click here](mailto:mikealesso768gmail.com)
   
-<!--Frameworks-->
-  
-<h3 align="left">My framework list:</h3>
-</br>
-<img src="img/my-image.png" align="center"
-</br>
-</p>
- 
 <!--Mis lenguajes fav-->
   
 <h3 align="left">Languages and Tools I use:</h3>
