@@ -43,9 +43,8 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317g2an3kdemwofsvtsonvutkq7a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317g2an3kdemwofsvtsonvutkq7a&redirect=true)
 
 <!--steam-->
-  </br>
-  ![Travis](https://steam-stat.vercel.app/api?profileName=mikedarkness)
-  </br>
+  ### 🎮 My [Steam](https://store.steampowered.com/) games! ([repo](https://github.com/Ananto30/steam-stat)) - 
+![Travis](https://steam-stat.vercel.app/api?profileName=mikedarkness)
 <!--Aprendizaje-->
 
 I am currently learning **VueJS, NodeJS, Laravel and Python** <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="20" eight="20"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="nodejs" width="30" eight="30"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="20" eight="20"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="95" eight="45">
