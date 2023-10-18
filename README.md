@@ -19,7 +19,7 @@
 <a href="https://www.instagram.com/devmike117/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-F4A98F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   
-<a href="https://youtube.com/@devmike." target="_blank">
+<a href="https://youtube.com/@devmike117" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0905?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"> 
   
 <a href="https://twitter.com/Devmike_gh" target="_blank">
@@ -28,13 +28,13 @@
 <a href="https://www.linkedin.com/in/miguel-gabriel-hern%C3%A1ndez/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-00a0dc?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"> 
 
-<a href="https://www.twitch.tv/devmikee" target="-blank">
+<a href="https://www.twitch.tv/devmike117" target="-blank">
 <img src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=Twitch&logoColor=white" tarjet="_blank"> 
  
 <a href="https://discord.gg/uTGDBd2jgr" tarjet="-blank">
 <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white" tarjet="_blank">
              
-<a href="https://www.twitch.tv/devmikee" target="_blank" rel="noreferrer">
+<a href="https://www.twitch.tv/devmike117" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/twitch/status/devmikee?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
  </br>
 </p>
