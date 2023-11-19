@@ -44,7 +44,7 @@
 
 <!--steam-->
   ### 🎮 My [Steam](https://steamcommunity.com/id/mikedarkness/) games! 
-![Travis](https://steam-stat.vercel.app/api?profileName=mikedarkness)
+![mike](https://steam-stat.vercel.app/api?profileName=mikedarkness)
 <!--Aprendizaje-->
 
 I am currently learning **VueJS, NodeJS, Laravel and Python** <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="20" eight="20"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="nodejs" width="30" eight="30"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="20" eight="20"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="95" eight="45">
