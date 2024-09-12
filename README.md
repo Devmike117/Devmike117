@@ -21,9 +21,7 @@
   
 <a href="https://youtube.com/@devmike117" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0905?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"> 
-  
-<a href="https://twitter.com/Devmike_gh" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-55acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
+
 
 <a href="https://www.linkedin.com/in/miguel-gabriel-hern%C3%A1ndez/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-00a0dc?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"> 
@@ -62,7 +60,7 @@ I am currently learning **VueJS, NodeJS, Laravel and Python** <img src="https://
   
 <h3 align="left">My progress:</h3> 
 </br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mike538&show_icons=true&locale=es&theme=radical" alt="Mike538" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mike538&show_icons=true&locale=es&theme=radical&layout=compact" alt="Mike538" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Devmike117&show_icons=true&locale=es&theme=radical" alt="Devmike117" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Devmike117&show_icons=true&locale=es&theme=radical&layout=compact" alt="Devmike117" /></p>
 
 
