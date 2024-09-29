@@ -43,8 +43,8 @@ console.log("Nothing's Gonna Stop Us Now");
 
 ----------------------------------------------------------------------
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devmike117&theme=github_dark&hide_progress=true)" alt="" width="300"/>
-  <img align="center" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=k0atiowd2hons4q4b1k5k3d3e&limit=5&hide_top_tracks=1"  alt="Data Card for Spotify" width="300"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devmike117&theme=github_dark&hide_progress=true)" alt="" width="360"/>
+  <img align="center" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=k0atiowd2hons4q4b1k5k3d3e&limit=5&hide_top_tracks=1"  alt="Data Card for Spotify" width="360"/>
 </p>
 </center>
 
