@@ -5,10 +5,7 @@
 <img align='right' src="https://github.com/Devmike117/Devmike117/blob/main/img/octocat-1727630168910.png" width="280">
 
     
-```javascript
-    <script>
-
-
+<script>
         const Devmike117 = {
             username: "Devmike117",
             code: ["Javascript", "C/C++", "HTML", "CSS", "Python", "Java", "SQL"],
@@ -21,8 +18,6 @@
             challenge: "I'm going back to doing activities that I stopped doing as well as programming"
         };
         console.log("Nothing's Gonna Stop Us Now");
-```
-
     </script>
 
 
