@@ -21,9 +21,9 @@
             challenge: "I'm going back to doing activities that I stopped doing as well as programming"
         };
         console.log("Nothing's Gonna Stop Us Now");
+```
 
     </script>
-```
 
 
 <div align="center">
