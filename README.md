@@ -7,7 +7,7 @@
 
     
 ```javascript
-javascript
+<script>
 const Devmike117 = {
   username: "Devmike117",
   code: [Javascript, C/C++, HTML, CSS, Python, Java, SQL],
@@ -21,6 +21,7 @@ const Devmike117 = {
 }
 P.S: I Love the Rock, Classical Music, Jazz Pop and Indie
 console.log("Nothing's Gonna Stop Us Now");
+</script>
 ```
 
 
