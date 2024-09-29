@@ -52,7 +52,7 @@ console.log("Nothing's Gonna Stop Us Now");
 <div align="center">
   
 <a href="https://www.instagram.com/devmike117/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-F4A98F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-bc3a64.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   
 <a href="https://steamcommunity.com/id/mikedarkness/" target="_blank">
 <img src="https://img.shields.io/badge/STEAM-171d25?style=for-the-badge&logo=steam&logoColor=white" target="_blank"> 
