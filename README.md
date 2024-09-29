@@ -5,20 +5,33 @@
 <img align='right' src="https://github.com/Devmike117/Devmike117/blob/main/img/octocat-1727630168910.png" width="280">
 
     
-<script>
+```javascript
+    <script>
+
         const Devmike117 = {
             username: "Devmike117",
-            code: ["Javascript", "C/C++", "HTML", "CSS", "Python", "Java", "SQL"],
-            tools: ["Node.js", "Chrome DevTools", "Xampp", "React", "Laravel", "Azure", "AWS", "GNU/Linux"],
-            Development: {
-                programming: ["Development web and software"],
-            },
-            artificialIntelligence: ["Machine Learning", "computer vision", "virtual assistants", "YOLOv8", "LSTM", "TensorFlow"],
-            hobbies: ["Play videogames", "Practice skateboard", "Producer music", "Read articles", "Be happy"],
             challenge: "I'm going back to doing activities that I stopped doing as well as programming"
         };
         console.log("Nothing's Gonna Stop Us Now");
+```
+
     </script>
+```
+```javascript
+const Devmike117 = {
+  username: "Devmike117",
+  code: [Javascript, C/C++, HTML, CSS, Python, Java, SQL],
+  tools: ["Node.js", "Chrome DevTools", "Xampp", "React", "Laravel", "Azure", "AWS", "GNU/Linux"],
+  Development: {
+    programming: ["Development web and software,"],
+  },
+  artificialIntelligence: ["Machine Learning", "computer vision", "virtual assistants", "YOLOv8", "LSTM", "TensorFlow"],
+  hobbies:["Play videogames", "Practice skateboard", "Producer music", "Read articles", "Be happy"],
+  challenge: "I'm going back to doing activities that I stopped doing as well as programming"
+}
+P.S: I Love the Rock, Classical Music, Jazz Pop and Indie
+console.log("Nothing's Gonna Stop Us Now");
+```
 
 
 <div align="center">
