@@ -19,7 +19,7 @@ const Devmike117 = {
 }
 P.S: I Love the Rock, Classical Music, Jazz Pop and Indie
 console.log("Nothing's Gonna Stop Us Now");
-</csript>
+</script>
 ```
 
 <div align="center">
