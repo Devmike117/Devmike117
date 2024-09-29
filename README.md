@@ -6,7 +6,7 @@
   <div class="mobile-section">
 
 ```javascript
-    <script>
+
         const Devmike117 = {
             username: "Devmike117",
             code: ["Javascript", "C/C++", "HTML", "CSS", "Python", "Java", "SQL"],
@@ -19,7 +19,7 @@
             challenge: "I'm going back to doing activities that I stopped doing as well as programming"
         };
         console.log("Nothing's Gonna Stop Us Now");
-    </script>
+
 ```
 ```javascript
 const Devmike117 = {
