@@ -5,7 +5,6 @@
 <img align='right' src="https://github.com/Devmike117/Devmike117/blob/main/img/octocat-1727630168910.png" width="280">
  
 ```javascript
-<script>
 const Devmike117 = {
   username: "Devmike117",
   code: [Javascript, C/C++, HTML, CSS, Python, Java, SQL],
@@ -19,7 +18,6 @@ const Devmike117 = {
 }
 P.S: I Love the Rock, Classical Music, Jazz Pop and Indie
 console.log("Nothing's Gonna Stop Us Now");
-</script>
 ```
 
 <div align="center">
