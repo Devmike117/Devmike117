@@ -13,7 +13,7 @@ const Devmike117 = {
     programming: ["Development web and software,"],
   },
   artificialIntelligence: ["Machine Learning", "computer vision", "virtual assistants", "YOLOv8", "LSTM", "TensorFlow"],
-  hobbies:["Play videogames", "Practice skateboard", "Producer music", "Read articles", "Be happy"]
+  hobbies:["Play videogames", "Practice skateboard", "Producer music", "Read articles", "Be happy"],
   challenge: "I'm going back to doing activities that I stopped doing as well as programming"
 }
 P.S: I Love the Rock, Classical Music, Jazz Pop and Indie
