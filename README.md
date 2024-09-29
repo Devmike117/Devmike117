@@ -2,6 +2,8 @@
 
 <center>
 <h2 align="center" > <img src="https://media4.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" width="50">Hi, I'm Mike!!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://github.com/Devmike117/Devmike117/blob/acd0b0f97205176b97ea42f6e4f70c45557c8476/img/octocat-1727630168910.png" width="180">
+
  
 ```javascript
 const Devmike117 = {
@@ -18,7 +20,6 @@ const Devmike117 = {
 P.S: I Love the Rock, Classical Music, Jazz Pop and Indie
 console.log("Nothing's Gonna Stop Us Now");
 ```
-<img align='right' src="https://github.com/Devmike117/Devmike117/blob/main/img/octocat-1727630168910.png" width="280">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
