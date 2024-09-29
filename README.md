@@ -1,10 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mike538&label=Visitas%20al%20perfil&color=blueviolet&style=for-the-badge" alt="Mike538" /> </p>
-
 <center>
 <h2 align="center" > <img src="https://media4.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" width="50">Hi, I'm Mike!!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://github.com/Devmike117/Devmike117/blob/acd0b0f97205176b97ea42f6e4f70c45557c8476/img/octocat-1727630168910.png" width="180">
 
- 
+
 ```javascript
 const Devmike117 = {
   username: "Devmike117",
@@ -58,7 +56,6 @@ console.log("Nothing's Gonna Stop Us Now");
   
 <a href="https://steamcommunity.com/id/mikedarkness/" target="_blank">
 <img src="https://img.shields.io/badge/STEAM-171d25?style=for-the-badge&logo=steam&logoColor=white" target="_blank"> 
-
 <a href="https://www.twitch.tv/devmike117" target="-blank">
 <img src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=Twitch&logoColor=white" tarjet="_blank"> 
  
@@ -67,4 +64,7 @@ console.log("Nothing's Gonna Stop Us Now");
              
 <a href="https://www.twitch.tv/devmike117" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/twitch/status/devmikee?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+
+ <p1> <img align='left' src="https://github.com/Devmike117/Devmike117/blob/acd0b0f97205176b97ea42f6e4f70c45557c8476/img/octocat-1727630168910.png" width="250">
+ </p1>
 
