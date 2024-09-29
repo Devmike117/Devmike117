@@ -6,18 +6,7 @@
 
     
 ```javascript
-    <script>
-
-        const Devmike117 = {
-            username: "Devmike117",
-            challenge: "I'm going back to doing activities that I stopped doing as well as programming"
-        };
-        console.log("Nothing's Gonna Stop Us Now");
-```
-
-    </script>
-```
-```javascript
+javascript
 const Devmike117 = {
   username: "Devmike117",
   code: [Javascript, C/C++, HTML, CSS, Python, Java, SQL],
@@ -26,7 +15,7 @@ const Devmike117 = {
     programming: ["Development web and software,"],
   },
   artificialIntelligence: ["Machine Learning", "computer vision", "virtual assistants", "YOLOv8", "LSTM", "TensorFlow"],
-  hobbies:["Play videogames", "Practice skateboard", "Producer music", "Read articles", "Be happy"],
+  hobbies:["Play videogames", "Practice skateboard", "Producer music", "Read articles", "Be happy"]
   challenge: "I'm going back to doing activities that I stopped doing as well as programming"
 }
 P.S: I Love the Rock, Classical Music, Jazz Pop and Indie
