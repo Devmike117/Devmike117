@@ -3,7 +3,7 @@
 <center>
 <h2 align="center" > <img src="https://media4.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" width="50">Hi, I'm Mike!!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://github.com/Devmike117/Devmike117/blob/main/img/octocat-1727630168910.png" width="280">
-  <div class="mobile-section">
+
     
 
     <script>
