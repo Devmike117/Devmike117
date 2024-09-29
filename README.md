@@ -1,17 +1,51 @@
-<!--Conteo de personas que ven mi perfil-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mike538&label=Visitas%20al%20perfil&color=blue&style=for-the-badge" alt="mike538" /> </p>
+<center>
+<h2 align="center" > <img src="https://media4.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" width="50">Hi, I'm Mike!!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://github.com/Devmike117/Devmike117/blob/main/img/octocat-1727630168910.png" width="280">
 
-<h1 align="center">• ─── ⋆⋅☆⋅⋆ ─── •</h1>
-<h1 align="center"> Hi! I'm Mike Gabriel<img src="https://github.com/Mike538/Mike538/blob/main/img/komi-komisan.gif" width="40" height="30" /> </h1>
-<h3 align="center">‍💻 A engineering student in software and programming 👨‍💻</h3>
-<h1 align="center">•❅──✧❅✦❅✧──❅•</h1>
-</a>
-<!--Animación uwu -->
+```javascript
+const Devmike117 = {
+  username: "Devmike117",
+  code: [Javascript, C/C++, HTML, CSS, Python, Java, SQL],
+  tools: ["Node.js", "Chrome DevTools", "Xampp", "React", "Laravel", "Azure", "AWS", "GNU/Linux"],
+  Development: {
+    programming: ["Development web and software,"],
+  },
+  artificialIntelligence: ["Machine Learning", "computer vision", "virtual assistants", "YOLOv8", "LSTM", "TensorFlow"],
+  hobbies:["Play videogames", "Practice skateboard", "Producer music", "Read articles", "Be happy"]
+  challenge: "I'm going back to doing activities that I stopped doing as well as programming"
+}
+P.S: I Love the Rock, Classical Music, Jazz Pop and Indie
+console.log("Nothing's Gonna Stop Us Now");
+```
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+</div>
 
-![Snake animation](https://raw.githubusercontent.com/Mike538/Mike538/main/img/contributions.svg)
-
-<!--Redes Sociales-->
+----------------------------------------------------------------------
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devmike117&theme=github_dark&hide_progress=true)" alt="" width="400"/>
+  <img align="center" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=k0atiowd2hons4q4b1k5k3d3e"  alt="Data Card for Spotify" width="560"/>
+</p>
+</center>
 
 ### Social Networks: 
 <div align="center">
@@ -19,12 +53,8 @@
 <a href="https://www.instagram.com/devmike117/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-F4A98F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   
-<a href="https://youtube.com/@devmike117" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0905?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"> 
-
-
-<a href="https://www.linkedin.com/in/miguel-gabriel-hern%C3%A1ndez/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-00a0dc?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"> 
+<a href="https://steamcommunity.com/id/mikedarkness/" target="_blank">
+<img src="https://img.shields.io/badge/STEAM-171d25?style=for-the-badge&logo=steam&logoColor=white" target="_blank"> 
 
 <a href="https://www.twitch.tv/devmike117" target="-blank">
 <img src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=Twitch&logoColor=white" tarjet="_blank"> 
@@ -34,24 +64,4 @@
              
 <a href="https://www.twitch.tv/devmike117" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/twitch/status/devmikee?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
- </br>
-</p>
-
-<!--Aprendizaje-->
-
-I am currently learning **VueJS, NodeJS, Laravel and Python** <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="20" eight="20"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="nodejs" width="30" eight="30"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="20" eight="20"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="95" eight="45">
-
-  
-<!--Mis lenguajes fav-->
-  
-<h3 align="left">Languages and Tools I use:</h3>
-<p align="left"><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> </p>
-  
-<!--Mi progeso en Github-->
-  
-<h3 align="left">My progress:</h3> 
-</br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Devmike117&show_icons=true&locale=es&theme=radical" alt="Devmike117" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Devmike117&show_icons=true&locale=es&theme=radical&layout=compact" alt="Devmike117" /></p>
-
 
