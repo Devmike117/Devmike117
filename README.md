@@ -15,7 +15,9 @@ const Devmike117 = {
   hobbies:["Play videogames", "Practice skateboard", "Producer music", "Read articles", "Be happy"]
   challenge: "I'm going back to doing activities that I stopped doing as well as programming"
 }
-P.S: I Love the Rock, Classical Music, Jazz Pop and Indie
+if (isPlaying) {
+playSong("Rock, Classical Music, Jazz, Pop and Indie");
+}
 console.log("Nothing's Gonna Stop Us Now");
 ```
 
