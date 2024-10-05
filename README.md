@@ -16,7 +16,7 @@ const Devmike117 = {
   challenge: "I'm going back to doing activities that I stopped doing as well as programming"
 }
 if (isPlaying) {
-playSong("Rock, Classical Music, Jazz, Pop and Indie");
+playSongs("Rock", "Classical Music", "Jazz", "Pop", "Indie");
 }
 console.log("Nothing's Gonna Stop Us Now");
 ```
