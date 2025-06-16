@@ -6,15 +6,19 @@
 ```javascript
 const Devmike117 = {
   username: "Devmike117",
+
   code: [Javascript, C/C++, HTML, CSS, Python, Java, SQL],
   tools: ["Node.js", "Chrome DevTools", "Xampp", "React", "Laravel", "Azure", "AWS", "GNU/Linux"],
+
   Development: {
     programming: ["Development web and software,"],
   },
   artificialIntelligence: ["Machine Learning", "computer vision", "virtual assistants", "YOLOv8", "LSTM", "TensorFlow"],
+
   hobbies:["Play videogames", "Practice skateboard", "Producer music", "Read articles",
   { activity: "Be happy", goal: "Or at least, that's the mission" }
   ],
+
   challenge: "I'm rediscovering the passions I once set aside,\n" +
            "growing through the things that bring me joy—including programming.\n\n" +
            "And love? It's the bittersweet act of holding back\n" +
@@ -27,6 +31,7 @@ const Devmike117 = {
 if (isPlaying) {
 playSongs("Rock", "Classical Music", "Jazz", "Pop", "Indie");
 }
+
 console.log("Nothing's Gonna Stop Us Now");
 ```
 
