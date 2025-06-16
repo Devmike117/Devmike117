@@ -12,9 +12,18 @@ const Devmike117 = {
     programming: ["Development web and software,"],
   },
   artificialIntelligence: ["Machine Learning", "computer vision", "virtual assistants", "YOLOv8", "LSTM", "TensorFlow"],
-  hobbies:["Play videogames", "Practice skateboard", "Producer music", "Read articles", "Be happy"]
-  challenge: "I'm going back to doing activities that I stopped doing as well as programming"
-}
+  hobbies:["Play videogames", "Practice skateboard", "Producer music", "Read articles",
+  { activity: "Be happy", goal: "Or at least, that's the mission" }
+  ],
+  challenge: "I'm rediscovering the passions I once set aside,\n" +
+           "growing through the things that bring me joy—including programming.\n\n" +
+           "And love? It's the bittersweet act of holding back\n" +
+           "what the heart longs to express, watching from afar\n" +
+           "as someone else takes the place you once dreamed of.",
+
+  emotionalState: "UnhandledPromiseRejection: Unexpected feelings in 'love.js'"
+};
+
 if (isPlaying) {
 playSongs("Rock", "Classical Music", "Jazz", "Pop", "Indie");
 }
