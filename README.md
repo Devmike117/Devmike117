@@ -32,7 +32,7 @@ if (isPlaying) {
 playSongs("Rock", "Classical Music", "Jazz", "Pop", "Indie");
 }
 
-console.log("Nothing's Gonna Stop Us Now");
+console.log("Gone forever: three days grace");
 ```
 
 <div align="center">
