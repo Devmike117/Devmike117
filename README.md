@@ -99,10 +99,7 @@ Website: <a href="https://portfoliodevmike.netlify.app/" target="_blank">link he
 </table>
   </div>
 <br>
-<br><br>
 <br>
-<br><br><br>
-<br><br><br>
 
 
 <h2>Achievements</h2>
