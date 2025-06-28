@@ -1,73 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mike538&label=Visitas%20al%20perfil&color=blueviolet&style=for-the-badge" alt="Mike538" /> </p>
 <center>
-<h2 align="center" > <img src="https://media4.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" width="50">Hi, I'm Mike!!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
-
-```javascript
-const Devmike117 = {
-  username: "Devmike117",
-
-  code: [Javascript, C/C++, HTML, CSS, Python, Java, SQL],
-  tools: ["Node.js", "Chrome DevTools", "Xampp", "React", "Laravel", "Azure", "AWS", "GNU/Linux"],
-
-  Development: {
-    programming: ["Development web and software,"],
-  },
-  artificialIntelligence: ["Machine Learning", "computer vision", "virtual assistants", "YOLOv8", "LSTM", "TensorFlow"],
-
-  hobbies:["Play videogames", "Practice skateboard", "Producer music", "Read articles",
-  { activity: "Be happy", goal: "Or at least, that's the mission" }
-  ],
-
-  challenge: "I'm rediscovering the passions I once set aside,\n" +
-           "growing through the things that bring me joy—including programming.\n\n",
-
-  emotionalState: "UnhandledPromiseRejection: Unexpected feelings in 'love.js'"
-};
-
-if (isPlaying) {
-playSongs("Rock", "Classical Music", "Jazz", "Pop", "Indie");
-}
-
-console.log("Gone forever: three days grace");
-```
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.JS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-</div>
-
-----------------------------------------------------------------------
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devmike117&theme=github_dark&hide_progress=true)" alt="" width="360"/>
-  <img align="center" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=k0atiowd2hons4q4b1k5k3d3e&limit=5&hide_top_tracks=1"  alt="Data Card for Spotify" width="360"/>
-</p>
-</center>
+<h2 align="center" > <img src="https://media4.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" width="50">Hi, I'm Mike!!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><br>
+<p align="center"> <img src="https://raw.githubusercontent.com/Devmike117/Devmike117/a9a73b9e0edc562694d2de8bfe6afd72bb8aaf28/assets/contributions.svg"/> </p></h2>
 
 ### Social Networks: 
-<div align="center">
+<div align="left">
   
 <a href="https://www.instagram.com/devmike117/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-bc3a64.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/instagram-bc3a64.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   
 <a href="https://steamcommunity.com/id/mikedarkness/" target="_blank">
 <img src="https://img.shields.io/badge/STEAM-171d25?style=for-the-badge&logo=steam&logoColor=white" target="_blank"> 
@@ -80,6 +20,96 @@ console.log("Gone forever: three days grace");
 <a href="https://www.twitch.tv/devmike117" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/twitch/status/devmikee?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
- <p1> <img align='left' src="https://github.com/Devmike117/Devmike117/blob/acd0b0f97205176b97ea42f6e4f70c45557c8476/img/octocat-1727630168910.png" width="250">
- </p1>
 
+<br><br>
+
+<h2>About Me</h2>
+
+<p align="left">
+Computer Systems Engineering student.<br><br>
+Passionate about programming, cybersecurity, web and software development.<br><br>
+Currently finishing my university degree.<br><br>
+On a journey to build a happy life and a meaningful future.<br><br>
+Website: <a href="https://portfoliodevmike.netlify.app/" target="_blank">link here</a>
+</p>
+
+
+<br>
+
+<h2>Tools & Technologies</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,css,html,js,nodejs,laravel,azure,aws,gcp,mysql,sqlite,firebase,git,github,docker,visualstudio,vscode,idea,apple,linux,windows,ai,ps,blender,unreal,ableton&perline=12" />
+  </a>
+</p>
+<br>
+
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devmike117&theme=github_dark&hide_progress=true)" alt="" width="360"/>
+  <img align="center" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=k0atiowd2hons4q4b1k5k3d3e&limit=5&hide_top_tracks=1"  alt="Data Card for Spotify" width="360"/>
+</p>
+</center>
+
+<br>
+
+<h2>Projects</h2>
+<table align="left" >
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center">
+      <h3>Medi-IA</h3><br>
+        <img align="center" width=100% src="https://raw.githubusercontent.com/Devmike117/Devmike117/refs/heads/main/assets/medi-ia.png"  /></a>
+      </p>
+    <p align="center">
+      <a href="https://github.com/Devmike117/medi-IA" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@Devmike117" /></a>
+    </p>       
+</td>
+<td width="25%" align="center">
+    <p align="center">
+      <h3>Modelo detcción de rostros </h3>
+        <img align="center" width=100% src="https://raw.githubusercontent.com/Devmike117/Devmike117/refs/heads/main/assets/modelo-detecion-rostros.png" /></a>
+      </p>
+    <p align="center">
+      <a href="https://github.com/Devmike117/modelo-deteccion-de-rostros" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@Devmike117" /></a>
+    </p>       
+</td>
+  
+  <td width="25%" align="center">
+    <p align="center">
+      <h3>Sistema cifrado web para PDFs</h3>
+        <img align="center" width=100% src="https://raw.githubusercontent.com/Devmike117/Devmike117/refs/heads/main/assets/cifrado-pdf.png"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+      <a href="https://github.com/Devmike117/Sistema-de-Cifrado-Web-para-PDFs" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@Devmike117" /></a>
+    </p>       
+</td>
+
+   <td width="25%" align="center">
+    <p align="center">
+      <h3>Glosario interactivo HTML, CSS</h3>
+        <img align="center" width=100% src="https://raw.githubusercontent.com/Devmike117/Devmike117/refs/heads/main/assets/glosario.png"  /></a>
+      </p>
+    <p align="center">
+      <a href="https://github.com/Devmike117/glosario-interactivo-html-css" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@Devmike117" /></a>
+    </p>       
+</td>
+  
+</tr>
+</table>
+  </div>
+<br>
+<br><br>
+<br>
+<br><br><br>
+<br><br><br>
+
+
+<h2>Achievements</h2>
+<div align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=Devmike117&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHIES" />
+  </a>
+</div>
+
+<br><br><br><br><br><br><br><br><br><br>
