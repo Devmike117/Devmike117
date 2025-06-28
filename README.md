@@ -20,10 +20,7 @@ const Devmike117 = {
   ],
 
   challenge: "I'm rediscovering the passions I once set aside,\n" +
-           "growing through the things that bring me joy—including programming.\n\n" +
-           "And love? It's the bittersweet act of holding back\n" +
-           "what the heart longs to express, watching from afar\n" +
-           "as someone else takes the place you once dreamed of.",
+           "growing through the things that bring me joy—including programming.\n\n",
 
   emotionalState: "UnhandledPromiseRejection: Unexpected feelings in 'love.js'"
 };
