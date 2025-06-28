@@ -60,7 +60,7 @@
   <tr>
     <!-- Proyecto: Medi-IA -->
     <td align="center" width="25%">
-      <h3>Medi-IA</h3>
+      <h3>Medi-IA</h3><br>
       <a href="https://github.com/Devmike117/medi-IA" target="_blank">
         <img width="100%" src="https://raw.githubusercontent.com/Devmike117/Devmike117/refs/heads/main/assets/medi-ia.png" alt="Medi-IA" />
       </a>
