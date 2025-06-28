@@ -38,7 +38,6 @@
       On a journey to build a happy life and a meaningful future.<br><br>
       Portfolio: <a href="https://portfoliodevmike.netlify.app/" target="_blank">link here</a><br><br>
       Website my social links: <a href="https://devmike117.netlify.app/" target="_blank">link here</a>
-      
     </p>
     <br>
     <h2>Tools & Technologies</h2>
