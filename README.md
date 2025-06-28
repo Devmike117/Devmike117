@@ -54,43 +54,58 @@
 
 <br>
 
-<h2>Projects</h2>
-<table align="left">
+<h2 align="left">Projects</h2>
+
+<table>
   <tr>
-    <td width="25%" align="center">
+    <!-- Proyecto: Medi-IA -->
+    <td align="center" width="25%">
       <h3>Medi-IA</h3>
       <a href="https://github.com/Devmike117/medi-IA" target="_blank">
-        <img width="100%" src="https://raw.githubusercontent.com/Devmike117/Devmike117/refs/heads/main/assets/medi-ia.png" />
-        <br>
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="medi-ia" />
+        <img width="100%" src="https://raw.githubusercontent.com/Devmike117/Devmike117/refs/heads/main/assets/medi-ia.png" alt="Medi-IA" />
+      </a>
+      <br><br>
+      <a href="https://github.com/Devmike117/medi-IA" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Medi-IA GitHub" />
       </a>
     </td>
-    <td width="25%" align="center">
+    <!-- Proyecto: Detección de rostros -->
+    <td align="center" width="25%">
       <h3>Modelo detección de rostros</h3>
       <a href="https://github.com/Devmike117/modelo-deteccion-de-rostros" target="_blank">
-        <img width="100%" src="https://raw.githubusercontent.com/Devmike117/Devmike117/refs/heads/main/assets/modelo-detecion-rostros.png" />
-        <br>
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="detección de rostros" />
+        <img width="100%" src="https://raw.githubusercontent.com/Devmike117/Devmike117/refs/heads/main/assets/modelo-detecion-rostros.png" alt="Modelo detección de rostros" />
+      </a>
+      <br><br>
+      <a href="https://github.com/Devmike117/modelo-deteccion-de-rostros" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Modelo detección GitHub" />
       </a>
     </td>
-    <td width="25%" align="center">
+    <!-- Proyecto: Cifrado de PDFs -->
+    <td align="center" width="25%">
       <h3>Sistema cifrado web para PDFs</h3>
       <a href="https://github.com/Devmike117/Sistema-de-Cifrado-Web-para-PDFs" target="_blank">
-        <img width="100%" src="https://raw.githubusercontent.com/Devmike117/Devmike117/refs/heads/main/assets/cifrado-pdf.png" />
-        <br>
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="cifrado pdf" />
+        <img width="100%" src="https://raw.githubusercontent.com/Devmike117/Devmike117/refs/heads/main/assets/cifrado-pdf.png" alt="Sistema cifrado web para PDFs" />
+      </a>
+      <br><br>
+      <a href="https://github.com/Devmike117/Sistema-de-Cifrado-Web-para-PDFs" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Cifrado PDF GitHub" />
       </a>
     </td>
-    <td width="25%" align="center">
+    <!-- Proyecto: Glosario -->
+    <td align="center" width="25%">
       <h3>Glosario interactivo HTML, CSS</h3>
       <a href="https://github.com/Devmike117/glosario-interactivo-html-css" target="_blank">
-        <img width="100%" src="https://raw.githubusercontent.com/Devmike117/Devmike117/refs/heads/main/assets/glosario.png" />
-        <br>
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="glosario" />
+        <img width="100%" src="https://raw.githubusercontent.com/Devmike117/Devmike117/refs/heads/main/assets/glosario.png" alt="Glosario interactivo HTML, CSS" />
+      </a>
+      <br><br>
+      <a href="https://github.com/Devmike117/glosario-interactivo-html-css" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Glosario GitHub" />
       </a>
     </td>
   </tr>
 </table>
+
+
 
 <br><br>
 
