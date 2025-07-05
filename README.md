@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mike538&label=Visitas%20al%20perfil&color=blueviolet&style=for-the-badge" alt="Mike538" />
 </p>
 
@@ -31,6 +31,7 @@
     </a>
     <br><br>
     <h2>About Me</h2>
+        <img align="right" alt="coding-gif" width="450" src="https://raw.githubusercontent.com/Devmike117/Devmike117/refs/heads/main/assets/transparent_gitgif.gif">
     <p align="left">
       Computer Systems Engineering student.<br><br>
       Passionate about programming, cybersecurity, web and software development.<br><br>
