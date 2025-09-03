@@ -119,4 +119,5 @@
 </div>
 
 <br><br>
+![GitHub Metrics](https://raw.githubusercontent.com/Devmike117/Devmike117/main/github-metrics.svg)
 
