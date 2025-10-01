@@ -6,23 +6,33 @@
   <h2 align="center">
     <img src="https://media4.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" width="50">
     Hi, I'm Mike!!!
-    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><br>
-    <p align="center">
-      <img src="https://raw.githubusercontent.com/Devmike117/Devmike117/a9a73b9e0edc562694d2de8bfe6afd72bb8aaf28/assets/contributions.svg" />
-    </p>
+    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
   </h2>
 
-  ## 🌟 Cita del día
-
-<!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=The%20finish%20line%20is%20just%20the%20beginning%20of%20a%20whole%20new%20race.&theme=dark&bg_color=1a1a1a&author_color=ffcc70&accent_color=00ffd0">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1500&width=650&color=00FFAA&background=0A0A0A&center=true&lines=Web+Developer+%7C+Software+Engineer;Computer+Systems+Engineering+Student;Cybersecurity+Enthusiast;Frontend+%7C+Backend+Developer;React+%7C+Node.js+%7C+Python;AI+Optimizer+%7C+API+Integrator;Problem+Solver+%7C+Original+Thinker" 
+       alt="Typing SVG" />
 </p>
-<!--ENDS_HERE_QUOTE_CARD-->
+
+
+  <!-- SVG -->
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Devmike117/Devmike117/a9a73b9e0edc562694d2de8bfe6afd72bb8aaf28/assets/contributions.svg" />
+  </p>
+</center>
+
+
+  <!--Dynamic Quote card updates--> 
+<h2 align="center">🌟 Quote ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+<p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=The%20finish%20line%20is%20just%20the%20beginning%20of%20a%20whole%20new%20race.&theme=tokyonight&animation=grow_out_in&quoteCategory=programming&author_color=ffcc70&accent_color=00ffd0">
+</p>
 
 
 
-  ### Social Networks:
+
+  ## Social Networks:
   <div align="left">
     <a href="https://www.instagram.com/devmike117/" target="_blank">
       <img src="https://img.shields.io/badge/instagram-bc3a64.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
@@ -130,3 +140,7 @@
 
 <br><br>
 
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
