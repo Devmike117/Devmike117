@@ -25,9 +25,11 @@
   <!--Dynamic Quote card updates--> 
 <h2 align="center">🌟 Quote ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
+<!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=The%20finish%20line%20is%20just%20the%20beginning%20of%20a%20whole%20new%20race.&theme=tokyonight&animation=grow_out_in&quoteCategory=programming&author_color=ffcc70&accent_color=00ffd0">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=The%20finish%20line%20is%20just%20the%20beginning%20of%20a%20whole%20new%20race.&theme=dark&bg_color=1a1a1a&author_color=ffcc70&accent_color=00ffd0">
 </p>
+<!--ENDS_HERE_QUOTE_CARD-->
 
 
 
