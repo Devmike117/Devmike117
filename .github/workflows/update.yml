@@ -1,10 +1,9 @@
-
 name: Update Quote
 
 on:
-  workflow_dispatch:  # Permite ejecutarlo manualmente desde GitHub
+  workflow_dispatch:  
   schedule:
-    - cron: '30 6 * * *'  # Ejecuta diario a las 6:30 UTC
+    - cron: '30 6 * * *'  # Corre todos los días a las 6:30 AM UTC
 
 jobs:
   update-readme:
@@ -29,6 +28,6 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git add README.md
-          git -c user.name='Devmike117' -c user.email='mikealesso768@gmail.com' commit -m "Update README with daily quote" -a
-          git pu
+          git add .
+          git -c user.name='Devmike117' -c user.email='mikealesso768@gmail.com' commit -m "Update README with daily quote"
+          git push
