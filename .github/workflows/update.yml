@@ -1,9 +1,9 @@
 name: Update Quote
 
 on:
-  workflow_dispatch:  # Permite ejecutarlo manualmente desde GitHub
+  workflow_dispatch:  
   schedule:
-    - cron: '30 6 * * *'  # Ejecuta diario a las 6:30 UTC
+    - cron: '30 6 * * *'  
 
 jobs:
   update-readme:
