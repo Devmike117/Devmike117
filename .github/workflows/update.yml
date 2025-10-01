@@ -28,6 +28,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
+          git pull origin main --rebase
           git add .
           git -c user.name='Devmike117' -c user.email='mikealesso768@gmail.com' commit -m "Update README with daily quote"
           git push
+
