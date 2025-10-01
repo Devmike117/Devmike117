@@ -1,9 +1,9 @@
 name: Update Quote
 
 on:
-  workflow_dispatch:  
+  workflow_dispatch:  #Manually trigger the workflow
   schedule:
-    - cron: '30 6 * * *'  # Corre todos los días a las 6:30 AM UTC
+    - cron: '30 6 * * *'  # Schedule daily at 12:01 AM 
 
 jobs:
   update-readme:
@@ -28,8 +28,6 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git pull origin main --rebase
-          git add .
-          git -c user.name='Devmike117' -c user.email='mikealesso768@gmail.com' commit -m "Update README with daily quote"
+          git add README.md
+          git -c user.name='Devmike117' -c user.email='mikealesso768@gmail.com' commit -m "Update README with daily quote" -a
           git push
-
