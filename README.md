@@ -12,6 +12,12 @@
     </p>
   </h2>
 
+  ## 🌟 Cita del día
+<!--STARTS_HERE_QUOTE_CARD-->
+Aquí aparecerá la cita visual.
+<!--ENDS_HERE_QUOTE_CARD-->
+
+
   ### Social Networks:
   <div align="left">
     <a href="https://www.instagram.com/devmike117/" target="_blank">
