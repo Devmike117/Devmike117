@@ -13,9 +13,13 @@
   </h2>
 
   ## 🌟 Cita del día
+
 <!--STARTS_HERE_QUOTE_CARD-->
-Aquí aparecerá la cita visual.
+<p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=The%20finish%20line%20is%20just%20the%20beginning%20of%20a%20whole%20new%20race.&theme=dark&bg_color=1a1a1a&author_color=ffcc70&accent_color=00ffd0">
+</p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
   ### Social Networks:
