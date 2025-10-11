@@ -29,5 +29,5 @@ jobs:
       - name: Commit and push changes
         run: |
           git add README.md
-          git -c user.name='Devmike117' -c user.email='${{ secrets.GH_EMAIL_PRIVADO }}' commit -m "Update README with daily quote" -a
+          git -c user.name='Devmike117' -c user.email='75444827+Devmike117@users.noreply.github.com' commit -m "Update README with daily quote" -a
           git push
