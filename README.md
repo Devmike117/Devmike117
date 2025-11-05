@@ -24,11 +24,13 @@
 
   <!--Dynamic Quote card updates--> 
 <h2 align="center">🌟 Quote ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Christopher%20Reeve&quote=Either%20you%20choose%20to%20stay%20in%20the%20shallow%20end%20of%20the%20pool%20or%20you%20go%20out%20into%20the%20ocean.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Walt%20Whitman&quote=The%20future%20is%20no%20more%20uncertain%20than%20the%20present.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
   ## Social Networks:
   <div align="left">
     <a href="https://www.instagram.com/devmike117/" target="_blank">
