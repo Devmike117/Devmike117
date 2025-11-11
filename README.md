@@ -25,21 +25,11 @@
   <!--Dynamic Quote card updates--> 
 <h2 align="center">🌟 Quote ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
-
-
-
-
-
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=William%20James&quote=Genius%2C%20in%20truth%2C%20means%20little%20more%20than%20the%20faculty%20of%20perceiving%20in%20an%20unhabitual%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
-
-
-
-
-
 
   ## Social Networks:
   <div align="left">
@@ -67,7 +57,7 @@
       Currently finishing my university degree.<br><br>
       On a journey to build a happy life and a meaningful future.<br><br>
       Portfolio: <a href="https://portfoliodevmike.netlify.app/" target="_blank">link here</a><br><br>
-      Website my social links: <a href="https://devmike117.netlify.app/" target="_blank">link here</a>
+      Website my social links: <a href="https://profiledevmike117.netlify.app/" target="_blank">link here</a>
     </p>
     <br>
     <h2>Tools & Technologies</h2>
