@@ -26,11 +26,13 @@
 <h2 align="center">🌟 Quote ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Darwin&quote=A%20scientific%20man%20ought%20to%20have%20no%20wishes%2C%20no%20affections%2C%20-%20a%20mere%20heart%20of%20stone.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Walt%20Disney&quote=When%20you're%20curious%2C%20you%20find%20lots%20of%20interesting%20things%20to%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
   ## Social Networks:
