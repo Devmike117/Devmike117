@@ -33,11 +33,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gabor%20Mate&quote=The%20attempt%20to%20escape%20from%20pain%2C%20is%20what%20creates%20more%20pain.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Marcus%20Aurelius&quote=Do%20not%20try%20to%20be%20on%20the%20side%20of%20the%20majority%2C%20but%20live%20according%20to%20your%20inner%20laws.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
