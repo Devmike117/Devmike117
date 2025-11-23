@@ -37,11 +37,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Audrey%20Hepburn&quote=You%20can%20tell%20more%20about%20a%20person%20by%20what%20he%20says%20about%20others%20than%20you%20can%20by%20what%20others%20say%20about%20him.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=Help%20others%20for%20all%20the%20times%20that%20you%20have%20been%20ignored.%20Be%20kind%20to%20others%2C%20for%20all%20the%20times%20that%20you%20have%20been%20scorned.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
