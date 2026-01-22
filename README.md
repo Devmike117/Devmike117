@@ -97,11 +97,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Unknown&quote=If%20you%20try%2C%20you%20might%20get%20exactly%20what%20you%20want.%20If%20you%20don't%2C%20you%20don't.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=The%20first%20rule%20of%20business%3B%20treat%20others%20like%20they%20want%20to%20treat%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
