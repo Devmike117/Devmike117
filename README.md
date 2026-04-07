@@ -362,14 +362,6 @@
         <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,css,html,js,nodejs,laravel,azure,aws,gcp,mysql,sqlite,firebase,git,github,docker,visualstudio,vscode,idea,apple,linux,windows,ai,ps,blender,unreal,ableton&perline=12" />
       </a>
     </p>
-    <br>
-    <p align="left">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devmike117&theme=github_dark&hide_progress=true)" alt="" width="360"/>
-      <img align="center" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=k0atiowd2hons4q4b1k5k3d3e&limit=5&hide_top_tracks=1" alt="Data Card for Spotify" width="360" />
-    </p>
-</center>
-
-<br>
 
 <h2 align="left">Projects</h2>
 
@@ -423,17 +415,7 @@
 </table>
 
 
-
-<br><br>
-
-<h2>Achievements</h2>
-<div align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img width="84%" src="https://github-profile-trophy.vercel.app/?username=Devmike117&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHIES" />
-  </a>
-</div>
-
-<br><br>
+<br>
 
 <!--Footer--> 
 <p align="center">
