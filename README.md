@@ -256,11 +256,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Marilyn%20Monroe&quote=Don't%20stop%20when%20you're%20tired.%20Stop%20when%20you're%20done.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=As%20you%20think%2C%20you%20travel%2C%20and%20as%20you%20love%2C%20you%20attract.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
