@@ -302,11 +302,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Spurgeon&quote=Hope%20itself%20is%20like%20a%20star-%20not%20to%20be%20seen%20in%20the%20sunshine%20of%20prosperity%2C%20and%20only%20to%20be%20discovered%20in%20the%20night%20of%20adversity.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=Life%20comes%20at%20us%20in%20waves.%20We%20can't%20predict%20or%20control%20those%20waves%2C%20but%20we%20can%20learn%20to%20surf.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
