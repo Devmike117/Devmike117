@@ -317,11 +317,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Winston%20Churchill&quote=To%20improve%20is%20to%20change%2C%20so%20to%20be%20perfect%20is%20to%20change%20often.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=The%20path%20is%20difficult%20to%20ensure%20worthiness.%20The%20lazy%20look%20elsewhere%2C%20The%20persevering%20find%20riches.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
