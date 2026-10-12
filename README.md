@@ -722,9 +722,8 @@
     <h2>About Me</h2>
         <img align="right" alt="coding-gif" width="450" src="https://raw.githubusercontent.com/Devmike117/Devmike117/refs/heads/main/assets/transparent_gitgif.gif">
     <p align="left">
-      Computer Systems Engineering student.<br><br>
+      Software Engineer.<br><br>
       Passionate about programming, cybersecurity, web and software development.<br><br>
-      Currently finishing my university degree.<br><br>
       On a journey to build a happy life and a meaningful future.<br><br>
       Portfolio: <a href="https://portfoliodevmike.netlify.app/" target="_blank">link here</a><br><br>
       Website my social links: <a href="https://profiledevmike117.netlify.app/" target="_blank">link here</a>
