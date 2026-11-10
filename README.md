@@ -389,11 +389,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alfred%20Adler&quote=A%20simple%20rule%20in%20dealing%20with%20those%20who%20are%20hard%20to%20get%20along%20with%20is%20to%20remember%20that%20this%20person%20is%20striving%20to%20assert%20his%20superiority%3B%20and%20you%20must%20deal%20with%20him%20from%20that%20point%20of%20view.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Arnold%20Schwarzenegger&quote=If%20you%20want%20to%20turn%20a%20vision%20into%20reality%2C%20you%20have%20to%20give%20100%25%20and%20never%20stop%20believing%20in%20your%20dream.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
